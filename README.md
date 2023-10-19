@@ -1,2 +1,2 @@
-# repositorio_aylen1
-repositorio del modulo 2 del precourse de henry
+prueba de como hacer un repositorio y clonarlo desde github a la computadora
+
